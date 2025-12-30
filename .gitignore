@@ -23,3 +23,6 @@ target
 # 컴파일 완료된 파일
 *.exe
 *.dll
+
+# macOS 시스템 파일
+.DS_Store
